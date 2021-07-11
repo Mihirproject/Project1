@@ -1,0 +1,27 @@
+*{
+margin:0;
+padding:0;
+
+}
+.full-website{
+text-align: center;
+width:900px;
+margin:0 auto;
+box-shadow: 2px 2px 8px rgba(0,0,0,.8);
+
+}
+.menu {
+background:#eb4d4b}
+
+.contener{
+background:#6ab04c
+
+}
+.footer{background:#a4b0be}
+.footerb{background:#747d8c}
+
+img{max-width:100%;}
+.op{padding: 30 4;}
+
+.opx{padding:60 0;}
+
